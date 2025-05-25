@@ -13,7 +13,6 @@ The code for the method introduced in the paper:
 ```
 
 # Dependencies
-torch
-botorch
-gpytorch
-fast_pytorch_kmeans
+```
+pip install torch botorch gpytorch fast_pytorch_kmeans
+```
